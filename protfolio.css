@@ -8,7 +8,7 @@ body {
 /*Header part Start*/
 header {
   width: 100%;
-  height: 50px;
+  height: 60px;
   position: fixed;
   background-color: white;
   top: 0px;
@@ -23,20 +23,19 @@ header div {
 }
 
 header .logo {
-  padding: 10px 5px;
+  padding: 3px 5px;
   margin-left: 150px;
 }
 
 header div .logo {
   width: 150px;
-  margin-top: -7px;
   margin-left: 0px;
 }
 
 header .nav {
   position: absolute;
   right: 0px;
-  top: 0px;
+  top: 7px;
   margin-right: 120px;
 }
 
